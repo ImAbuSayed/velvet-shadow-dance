@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-shadow-dance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Velvet Shadow Dance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-shadow-dance/) |
+| **Get License** | [Get License For Velvet Shadow Dance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-shadow-dance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3881640ba953b91c910691c55e464aef1f1784f5726840ba9465f705d3247679` |
 | **Timestamp** | June 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
