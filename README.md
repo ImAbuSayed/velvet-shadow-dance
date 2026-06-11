@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/velvet-shadow-dance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Velvet Shadow Dance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-shadow-dance/) |
+| **Get License** | [Official Music Licensing for Velvet Shadow Dance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/velvet-shadow-dance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows falling on the hardwood floor
+> I have never wanted someone more
+> Pull you closer in the fading light
+> We are getting lost in the dark tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
